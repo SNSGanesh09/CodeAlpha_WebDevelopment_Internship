@@ -1,0 +1,41 @@
+.container {
+    background-color: yellow;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 5px solid white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-top: 10px;
+    width: 70%;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
